@@ -19,6 +19,6 @@ Une liste de courses avec sauvegarde pour débutants, réalisée avec Python et 
 
 6. **Il ne vous reste plus qu'à éxecuter la commande suivante pour lancer le script et suivre ses différentes étapes :**
    ```bash
-   python _liste_de_courses.py
+   python liste_de_courses.py
    ```
 **Assurez-vous de bien suivre les étapes ci-dessus, cela vous permettra de clôner, accéder au répertoire et éxecuter le script avec succès.**
